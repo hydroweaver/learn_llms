@@ -25,6 +25,12 @@ Although I have a fair understanding of the universe of AI and atleast the recen
 3. Agents: - HF - Langchain (somehow mainly used for RAG??) -  Crew AI etc
 4. Small models / 1 Bit models
 5. WebLLM
+6. Web scrapping
+    7. https://python.langchain.com/v0.1/docs/use_cases/web_scraping/
+    8. https://huggingface.co/blog/luigi12345/ai-scraping-browser-automation
+    9. Crawl4AI
+    10. https://www.linkedin.com/feed/update/activity:7276642671257927682/?trk=feed_main-feed-card_comment-cta
+    11. Stagehand
 
 _There is also a lot of mix and match between Langchain, HF, other libraries etc..... HF seems to have a very extensive use case for everyhing_
 https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.amp.html
